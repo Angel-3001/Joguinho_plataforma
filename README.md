@@ -1,2 +1,5 @@
 # Joguinho_plataforma
 Um jogo de plataforma para projeto de PCD
+
+Inicialmente foi pensado em fazer um jogo de RPG baseado em alguma das disciplinas, focado em didática e melhor concepção dos conteúdos, porém, como tive que aprender PyGame do zero, achei melhor fazer algo mais simples, então fiz dois tutoriais do próprio site, criando, primeiro, um jogo de carros, extremamente simples, e depois fazendo um jogo de plataforma. A partir disso, com ajuda de IA, do aluno Joaquim Ferola Fonseca, da T25, e do próprio tutorial, aprimorei o código, adicionando inimigos, plataformas mais rápidas e menores e criando um camera offset. Isso fez com que tivesse mais compreensão de Pygame e das classes, objetos incrivelmente úteis.
+Porém eu gostaria de tentar aplicar esses  conceitos futuramente em um jogo didático - como o jogo Menace. Para isso, deixei o código o mais fácil possível de se entender posteriormente, para poder melhorá-lo depois e aprender, com o objetivo de usar o Pygame para criar jogos que simulem, por exemplo, a vida de laboratório.
