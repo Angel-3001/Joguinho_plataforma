@@ -27,6 +27,6 @@ Além de melhorias de mecânica, alguns erros ainda podem ser consertados, como 
 Com isso, é possível apontar que o jogo foi bem sucedido, mas ainda faltam alguns pontos de refinamento, como os bugs mencionados e possíveis melhorias. Porém, mesmo incompleto, pude me sentir desafiada ao ter que aprender uma nova biblioteca, com diversas ferramentas, e uma estrutura de código inteiramente inusitada, usando classes e funções para rodar o código como um todo. A partir disso, posso dizer que escolher esse jogo como projeto de PCD foi acertivo, pois não foi somente uma tarefa mecânica, estava dentro dos meus limites e consegui me desafiar para criar o código.
 
 ### Referências
-CODERSLEGACY. **Python PyGame Tutorial – The Complete Guide**. CodersLegacy, [s.d.]. Disponível em: CodersLegacy - Python PyGame Tutorial. Acesso em: 21 de mai. 2026.
+CODERSLEGACY. **Python PyGame Tutorial – The Complete Guide**. CodersLegacy, [s.d.]. Disponível em: https://coderslegacy.com/python/python-pygame-tutorial/. Acesso em: 21 de mai. 2026.
 
 CODERSLEGACY. **Pygame Platformer – Game Development**. CodersLegacy, [s.d.]. Disponível em: https://coderslegacy.com/python/pygame-platformer-game-development/. Acesso em: 18 mai. 2026.
