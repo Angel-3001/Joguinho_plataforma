@@ -1,6 +1,12 @@
 # Joguinho_plataforma
 Um jogo de plataforma para projeto de PCD
 
+#### Como executar o código
+1. Instale o Pygame, digitando no Karnel:
+   pip install pygame
+2. Baixe o arquivo "jogo_plataforma.ipynb" e "pixel enemy.png" e certifique-se de que eles estão na mesma pasta.
+3. Então execute todo o código do notebook baixado.
+
 ### Resumo
 Esse código foi feito com o objetivo de aprender mais sobre a biblioteca Pygame e suas utilizações, portanto ele não é produzido para utilidade acadêmica, mas é pretendido usar os conhecimentos aprendidos para a criação de jogos didáticos e interfaces gráficas interativas para outros fins acadêmicos, como simulações simples.
 
