@@ -28,4 +28,5 @@ Com isso, é possível apontar que o jogo foi bem sucedido, mas ainda faltam alg
 
 ### Referências
 CODERSLEGACY. **Python PyGame Tutorial – The Complete Guide**. CodersLegacy, [s.d.]. Disponível em: CodersLegacy - Python PyGame Tutorial. Acesso em: 21 de mai. 2026.
+
 CODERSLEGACY. **Pygame Platformer – Game Development**. CodersLegacy, [s.d.]. Disponível em: https://coderslegacy.com/python/pygame-platformer-game-development/. Acesso em: 18 mai. 2026.
