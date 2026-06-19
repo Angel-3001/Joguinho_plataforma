@@ -1,3 +1,6 @@
+**Autora:** Angel Andrade Carmo e Lima Sales.
+**Instituição:** Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais (CNPEM).
+
 # Joguinho_plataforma
 Um jogo de plataforma para projeto de PCD
 
