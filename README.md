@@ -2,7 +2,7 @@
 
 **Instituição:** Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais (CNPEM).
 
-# Joguinho_plataforma
+# Joguinho de plataforma
 
 #### Como executar o código
 1. Instale o Pygame, digitando no Karnel:
@@ -10,13 +10,17 @@
 2. Baixe o arquivo "jogo_plataforma.ipynb" e "pixel enemy.png" e certifique-se de que eles estão na mesma pasta.
 3. Então execute todo o código do notebook baixado.
 
-### Resumo
-Esse código foi feito com o objetivo de aprender mais sobre a biblioteca Pygame e suas utilizações, portanto ele não é produzido para utilidade acadêmica, mas é pretendido usar os conhecimentos aprendidos para a criação de jogos didáticos e interfaces gráficas interativas para outros fins acadêmicos, como simulações simples.
+### Descrição do projeto
+Projeto realizado para a matéria de Prática em Ciência de Dados (PCD), lecionada pelos professores Leandro Nascimento Lemos, Daniel Roberto Cassar e James Moraes de Almeida. Foi orientado que um projeto individual fosse desenvolvido, com o objetivo de se desafiar e mostrar o que foi aprendido durante essa matéria. Então foi inicialmente pensado em fazer um jogo didático que usa-se dos conceitos de matemática e ciências no geral, porém, depois de realizar um planejamento prévio, acreditou-se ser melhor um jogo mais simples, com o objetivo de aprender novos conceitos e treinar aquilo que já foi aprendido. Com isso, o projeto desenvolvido foi um jogo de plataforma, com código organizado inteiramente com estrutura de classes e utilizando pygame.
 
 ### Introdução
 Inicialmente foi pensado em fazer um jogo de RPG baseado em alguma das disciplinas, focado em didática e melhor concepção dos conteúdos, porém, como tive que aprender PyGame do zero, achei melhor fazer algo mais simples, então fiz dois tutoriais do próprio site, criando, primeiro, um jogo de carros, extremamente simples, e depois fazendo um jogo de plataforma. A partir disso, com ajuda de IA, do aluno Joaquim Ferola Fonseca, da T25, e do próprio tutorial, aprimorei o código, adicionando inimigos, plataformas mais rápidas e menores e criando um camera offset. Isso fez com que tivesse mais compreensão de Pygame e das classes, objetos incrivelmente úteis.
 Porém eu gostaria de tentar aplicar esses  conceitos futuramente em um jogo didático - como o jogo Menace. Para isso, deixei o código o mais fácil possível de se entender posteriormente, para poder melhorá-lo depois e aprender, com o objetivo de usar o Pygame para criar jogos que simulem, por exemplo, a vida de laboratório.
 A biblioteca Pygame é extremamente útil, pois permite usar recursos relativamente simples para poder fazer representações gráficas e manipulação de objetos, por isso foi escolhida para esse projeto. Além disso, ela é reforçada pela utilização de classes para melhor organização e uso, então isso me ajudou a compreender melhor um conceito novo em python - eu já havia visto um pouco sobre classes em Java, mas não me aprofundei tanto.
+
+### Objetivos
+* Aprender a usar a biblioteca PyGame e classes;
+* Construir habilidades sobre desenvolvimento de jogos;
 
 ### Metodologia
 Primeiro pensei no objetivo do projeto, que já foi descrito anteriormente, então, como não conhecia a biblioteca usada, foi feito um estudo a partir dos tutoriais do próprio site, disponíveis nas referências. O primeiro tutorial realizado cria um jogo de carros, com fundo, sprites, esquema de colisão e movimento, além de recebimento de inputs. A partir disso, foi possível passar para o segundo tutorial, que cria um jogo de plataforma básico, com sistema de gravidade e plataformas estáticas. Então, usando o ChatGPT e o auxílio de estudantes que já usaram o Pygame, refinei o código, deixando-o mais organizado, completo e comentando. Dessa forma foi possível aprender a usar a biblioteca praticando, depurando o código, testando e analisando passo a passo.
