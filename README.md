@@ -21,6 +21,7 @@ A biblioteca Pygame é extremamente útil, pois permite usar recursos relativame
 ### Objetivos
 * Aprender a usar a biblioteca PyGame e classes;
 * Construir habilidades sobre desenvolvimento de jogos;
+* Criar um jogo a partir de tutoriais para usar de material de estudo para futuros projetos.
 
 ### Metodologia
 Primeiro pensei no objetivo do projeto, que já foi descrito anteriormente, então, como não conhecia a biblioteca usada, foi feito um estudo a partir dos tutoriais do próprio site, disponíveis nas referências. O primeiro tutorial realizado cria um jogo de carros, com fundo, sprites, esquema de colisão e movimento, além de recebimento de inputs. A partir disso, foi possível passar para o segundo tutorial, que cria um jogo de plataforma básico, com sistema de gravidade e plataformas estáticas. Então, usando o ChatGPT e o auxílio de estudantes que já usaram o Pygame, refinei o código, deixando-o mais organizado, completo e comentando. Dessa forma foi possível aprender a usar a biblioteca praticando, depurando o código, testando e analisando passo a passo.
